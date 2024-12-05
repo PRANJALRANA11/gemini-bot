@@ -20,7 +20,7 @@ export const Overview = () => {
           <MessageIcon />
         </p>
         <p>
-          Hy I'm a chatbot powered by gemini and made by sudhanshu choudhary !
+          Hy I am a chatbot powered by gemini and made by sudhanshu choudhary !
           How can I help you{" "}
         </p>
       </div>
